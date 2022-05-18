@@ -1,9 +1,3 @@
-local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
 
-CoreGui:SetCore("SendNotification", {
-    -- Customizable
-    Title = "ATTACH",
-    Text = "Boweb beta good",
-    Duration = 10, -- Set the duration to how much you want this to stay
-    -- More code in part 2
-})
+    Player:kick("vien dm boweb mdr")
+end)
